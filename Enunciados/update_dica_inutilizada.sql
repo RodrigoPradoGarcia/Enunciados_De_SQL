@@ -1,0 +1,1 @@
+update dica set descricao = upper(descricao) where not id_dica in (select id_dica from jogo_dica);

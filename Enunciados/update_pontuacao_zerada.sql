@@ -1,0 +1,1 @@
+update partida set pontuacao = 100 where pontuacao = 0;

@@ -1,0 +1,1 @@
+update perfil set apelido = 'elisabete' where id_perfil in ( select id_perfil from partida where pontuacao = 100 )

@@ -1,0 +1,1 @@
+delete from partida where data = '0000-00-00 00:00:00';

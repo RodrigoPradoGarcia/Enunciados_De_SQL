@@ -1,0 +1,1 @@
+update dica set descricao = 'Utilize a lei dos senos' where descricao = 'Utilize a lei dos cossenos';
